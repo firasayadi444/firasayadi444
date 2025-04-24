@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a final-year Software Engineering student 
+I'm a final-year Software Engineering student with hands-on experience in full-stack development and AI integration. I specialize in building secure, responsive web applications with expertise in JavaScript frameworks and backend technologies.
+
+I have a keen interest in cybersecurity automation and AI-powered systems, with experience in implementing various projects from employee management systems to AI-powered image generation platforms.
 
 
 ## 🌐 Socials:
